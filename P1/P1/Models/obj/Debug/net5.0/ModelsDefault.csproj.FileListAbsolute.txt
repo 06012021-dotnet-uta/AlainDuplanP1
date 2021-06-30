@@ -1,0 +1,15 @@
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\bin\Debug\net5.0\ModelsDefault.deps.json
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\bin\Debug\net5.0\ModelsDefault.dll
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\bin\Debug\net5.0\ref\ModelsDefault.dll
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\bin\Debug\net5.0\ModelsDefault.pdb
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\obj\Debug\net5.0\ModelsDefault.csproj.AssemblyReference.cache
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\obj\Debug\net5.0\ModelsDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\obj\Debug\net5.0\ModelsDefault.AssemblyInfoInputs.cache
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\obj\Debug\net5.0\ModelsDefault.AssemblyInfo.cs
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\obj\Debug\net5.0\ModelsDefault.csproj.CoreCompileInputs.cache
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\obj\Debug\net5.0\ModelsDefault.dll
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\obj\Debug\net5.0\ref\ModelsDefault.dll
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\obj\Debug\net5.0\ModelsDefault.pdb
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\bin\Debug\net5.0\ShopperContext.dll
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\bin\Debug\net5.0\ShopperContext.pdb
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\Models\obj\Debug\net5.0\ModelsDefault.csproj.CopyComplete

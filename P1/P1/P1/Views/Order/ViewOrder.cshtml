@@ -1,0 +1,53 @@
+﻿@model ModelsDefault.Order
+
+@{
+    ViewData["Title"] = "ViewOrder";
+}
+
+<h1>View Order</h1>
+
+@Html.ActionLink("View Stock", "ViewItems", Model) | 
+@Html.ActionLink("Add Items", "AddItems", Model)
+
+<div>
+    <h4>Order</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Store ID:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.store)
+        </dd>
+        <dt class="col-sm-2">
+            Customer ID:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.custId)
+        </dd>
+        <dt class="col-sm-2">
+            Time of Order:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.time)
+        </dd>
+        <dt class="col-sm-2">
+            Total thus far:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.total)
+        </dd>
+        <dt class="col-sm-2">
+            Order ID:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.id)
+        </dd>
+
+    </dl>
+</div>
+<div>
+    <button class="btn-light"><a href="javascript:void(0);" onclick="history.go(-1);">Back</a></button>
+    <button class="btn-light">@Html.ActionLink("Home", "Home", Model)</button>
+    
+</div>

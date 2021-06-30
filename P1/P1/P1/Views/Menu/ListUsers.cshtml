@@ -1,0 +1,72 @@
+﻿@model IEnumerable<ModelsDefault.User>
+
+@{
+    ViewData["Title"] = "ListUsers";
+}
+
+<h1>List of Users</h1>
+
+<table class="table">
+    <thead style="background-color:#E6D8C6">
+        <tr>
+            <th>
+                First Name:
+            </th>
+            <th>
+                Last Name:
+            </th>
+            <th>
+                User Id:
+            </th>
+            <th>
+                Recommended Store:
+            </th>
+            <th>
+                Authorization Level:
+            </th>
+            <th>
+                Total Amount of Orders:
+            </th>
+            <th>
+                Total Spend:
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.fname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.lname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.storeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.auth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.totalOrders)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.totalSpent)
+            </td>
+            
+            <td>
+                @Html.ActionLink("Details", "DetailsUser", item)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div>
+    <button class="btn-light"><a href="javascript:void(0);" onclick="history.go(-1);">Back</a></button>
+</div>

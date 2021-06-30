@@ -1,0 +1,15 @@
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\bin\Debug\net5.0\ShopperContext.deps.json
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\bin\Debug\net5.0\ShopperContext.runtimeconfig.json
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\bin\Debug\net5.0\ShopperContext.runtimeconfig.dev.json
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\bin\Debug\net5.0\ShopperContext.dll
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\bin\Debug\net5.0\ref\ShopperContext.dll
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\bin\Debug\net5.0\ShopperContext.pdb
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\obj\Debug\net5.0\ShopperContext.csproj.AssemblyReference.cache
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\obj\Debug\net5.0\ShopperContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\obj\Debug\net5.0\ShopperContext.AssemblyInfoInputs.cache
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\obj\Debug\net5.0\ShopperContext.AssemblyInfo.cs
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\obj\Debug\net5.0\ShopperContext.csproj.CoreCompileInputs.cache
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\obj\Debug\net5.0\ShopperContext.dll
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\obj\Debug\net5.0\ref\ShopperContext.dll
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\obj\Debug\net5.0\ShopperContext.pdb
+C:\Users\ALAIN\Documents\Revature\AlainDuplanP0\P1\P1\ShopperContext\obj\Debug\net5.0\ShopperContext.genruntimeconfig.cache
