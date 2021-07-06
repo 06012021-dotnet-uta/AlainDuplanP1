@@ -40,5 +40,5 @@ To-do list:
 
 ## License
 
-This project uses the following license: [<MIT>](<https://opensource.org/licenses/MIT>).
+This project uses the following license: [MIT](https://opensource.org/licenses/MIT).
 
