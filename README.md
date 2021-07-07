@@ -25,17 +25,14 @@ To-do list:
 
 ## Getting Started
    
-* Run `git clone https://github.com/06012021-dotnet-uta/AlainDuplanP1` in your terminal
+* Run `git clone https://github.com/06012021-dotnet-uta/AlainDuplanP1` in your terminal.
 * Open the SQL folder and run `Builder.sql`  to build the database, than proceed to run `Populate.sql` to populate.
-* Open `P1/P1/P1.sln` in visual studio to view the project, ensure the connection string in `/P1/P1/ShopperContext/ShopperContext.cs` matches your local copy.
+* Open `P1/P1/P1.sln` in Visual Studio to view the project, ensure the connection string in `/P1/P1/ShopperContext/ShopperContext.cs` matches your local copy.
 * Click ISSExpress to run project in your local browser.
-
-- All the `code` required to get started
-- Images of what it should look like
 
 ## Usage
 
-* Log in with 1007 to access admin functionalities.
+* Log in with ID: 1007 to access admin functionalities.
 
 ## License
 
