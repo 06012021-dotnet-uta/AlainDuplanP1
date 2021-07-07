@@ -2,11 +2,11 @@
 
 ## Project Description
 
-Here goes your awesome project description!
+This web application was built using ASP.Net Core MVC to stimulate various users shopping at numerous stores. By using Microsoft Entity Framework Core, the web application utilized a locally store database normalized in third base form to information on availalble users, stores, inventory and orders that persists all changes. By logging in as an admin, the user is also able to access private user infomation along with open and restock stores.
 
 ## Technologies Used
 
-* ASP.NET Core MVC, XUnit Testing - version 1.0
+* ASP.NET Core MVC, XUnit Testing, Microsoft Entity Framework Core - version 1.0
 
 ## Features
 
@@ -21,10 +21,12 @@ List of features ready and TODOs for future development
 To-do list:
 * Allow search resullts to be ordered by date and price.
 * Allow users to log in with a username and password.
+* Allow users to have a set budget on how much they can spend.
 
 ## Getting Started
    
-(include git clone command)
+* Run <git clone https://github.com/06012021-dotnet-uta/AlainDuplanP1> in your terminal
+* Open the SQL folder and run the 
 (include all environment setup steps)
 
 > Be sure to include BOTH Windows and Unix command  
