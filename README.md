@@ -24,6 +24,7 @@ To-do list:
 * Allow search resullts to be ordered by date and price.
 * Allow users to log in with a username and password.
 * Allow users to have a set budget on how much they can spend.
+* Establish CI/CD with an Azure Pipeline and deploy onto Azure Web Services
 
 ## Getting Started
    
