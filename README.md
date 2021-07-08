@@ -2,11 +2,11 @@
 
 ## Project Description
 
-This web application was built using ASP.Net Core MVC to stimulate various users shopping at numerous stores. By using Microsoft Entity Framework Core, the web application utilized a locally store database normalized in third base form to information on availalble users, stores, inventory and orders that persists all changes. By logging in as an admin, the user is also able to access private user infomation along with open and restock stores.
+This is a ASP.NET Core MVC project utilizing Entity Framework Core to create a Web Store Application that allows a user to create an account then view orders by user and store location. The user can create an order, view their order history, and view the order history of a store location.
 
 ## Technologies Used
 
-* ASP.NET Core MVC, XUnit Testing, Microsoft Entity Framework Core - version 1.0
+* C# Programming, ASP.NET MVC, ADO.NET Entity Framework, Testing Process / SDLC, HTML5, CSS3, Defect Logging, Microsoft SQL Server, SQL, XML - version 1.0
 
 ## Features
 
