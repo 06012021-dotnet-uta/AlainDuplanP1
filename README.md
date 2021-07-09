@@ -10,9 +10,8 @@ This is a ASP.NET Core MVC project utilizing Entity Framework Core to create a W
 
 ## Features
 
-* Created an ASP.NET Core MVC project using C#.
 * Used Database-First approach to create content using Microsoft SQL Server and T-SQL while adhering to third base normal form.
-* Utilize XUnit to test various functionalities.
+* Utilized XUnit to test various functionalities.
 * Users are able to create new accounts and log in with previous credentials.
 * Accounts that are labeled as admin have access to additional functionalities.
 * Users are able to create new orders and look back on details on previous orders.
